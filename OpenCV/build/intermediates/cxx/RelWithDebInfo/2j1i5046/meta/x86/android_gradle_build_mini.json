@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/mima0000/Project/AndroidProjects/MyOpenCV/OpenCV/libcxx_helper/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/mima0000/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/mima0000/Project/AndroidProjects/MyOpenCV/OpenCV/.cxx/RelWithDebInfo/2j1i5046/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/mima0000/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/mima0000/Project/AndroidProjects/MyOpenCV/OpenCV/.cxx/RelWithDebInfo/2j1i5046/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared::@6890427a1f51a3e7e1df": {
+      "artifactName": "opencv_jni_shared",
+      "abi": "x86",
+      "output": "/Users/mima0000/Project/AndroidProjects/MyOpenCV/OpenCV/.cxx/RelWithDebInfo/2j1i5046/x86/libopencv_jni_shared.a",
+      "runtimeFiles": []
+    }
+  }
+}

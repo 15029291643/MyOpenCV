@@ -1,0 +1,1 @@
+/Users/mima0000/Project/AndroidProjects/MyOpenCV/OpenCV/build/intermediates/cxx/Debug/5ass4k50/obj/arm64-v8a

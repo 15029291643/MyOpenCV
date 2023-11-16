@@ -1,0 +1,1 @@
+/Users/mima0000/Project/AndroidProjects/MyOpenCV/OpenCV/build/intermediates/cxx/RelWithDebInfo/2j1i5046/obj/x86
