@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         ActivityMainBinding binding = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
+        startActivity(new Intent(this, MainActivity2.class));
         Toast.makeText(this,
                 OpenCVLoader.initDebug() ? "OpenCV加载成功" : "OpenCV加载失败"
                 , Toast.LENGTH_SHORT).show();
