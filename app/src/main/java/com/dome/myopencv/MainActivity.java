@@ -18,9 +18,9 @@ public class MainActivity extends AppCompatActivity {
         ActivityMainBinding binding = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
         startActivity(new Intent(this, MainActivity2.class));
-        Toast.makeText(this,
-                OpenCVLoader.initDebug() ? "OpenCV加载成功" : "OpenCV加载失败"
-                , Toast.LENGTH_SHORT).show();
+//        Toast.makeText(this,
+//                OpenCVLoader.initDebug() ? "OpenCV加载成功" : "OpenCV加载失败"
+//                , Toast.LENGTH_SHORT).show();
 
 
         binding.button2.setOnClickListener(v -> {
